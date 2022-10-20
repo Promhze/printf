@@ -1,5 +1,5 @@
 # **Printf**
-Writing our own `printf` function. This is an ALX C Programming group project.
+This is an ALX C Programming group project ON printf
 
 **Authorised functions and macros**
 - write (man 2 write)
@@ -11,5 +11,5 @@ Writing our own `printf` function. This is an ALX C Programming group project.
 - va_arg (man 3 va_arg)
 
 **Authors**
-- [Charity Roberts](https://github.com/InioluwaR)
-- [Elijah Gbeminiyi](https://github.com/elijahgbeminiyi)
+- [promise igbosonu]
+- [allan masiga]
